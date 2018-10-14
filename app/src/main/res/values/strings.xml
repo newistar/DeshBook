@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeshBook</string>
+    <string name="appbar_scrolling_view_behavior">Swipe to Refresh...</string>
+    <string name="preference_file_key">key101</string>
+</resources>
